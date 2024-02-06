@@ -6,4 +6,4 @@ Problem: In Project Wolbachia, only male mosquitoes can be release into the envi
 The web application can be accessed via the website below:
 https://rshinyapplications.shinyapps.io/EHI_Pupae_Data_Analyzer/ 
 
-Dataset from the highthroughput computer can be found in the date folder. 
+Dataset from the highthroughput computer can be found in the data folder. 
